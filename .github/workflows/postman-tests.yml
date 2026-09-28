@@ -32,4 +32,4 @@ jobs:
 
       - name: Run Postman API Tests
         run: |
-          newman run "collections/Practice Software Testing API.postman_collection.json"
+          newman run "collection/Practice Software Testing API.postman_collection.json"
